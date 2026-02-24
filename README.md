@@ -44,8 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tamim-Hasan-Nahian1214 /Tamim-Hasan-Nahian1214 /output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left"></p>
@@ -56,10 +54,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamim-Hasan-Nahian1214 /Tamim-Hasan-Nahian1214 /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamim-Hasan-Nahian1214 /Tamim-Hasan-Nahian1214 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tamim-Hasan-Nahian1214 /Tamim-Hasan-Nahian1214 /output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
