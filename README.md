@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Tamim Hasan Nahian and I'm a Student, from Bangladesh</h1>
+<h1 align="left" style="font-size:1.5rem">Hi 👋! My name is Tamim Hasan Nahian and I'm a Student, from Bangladesh</h1>
 
 ###
 
