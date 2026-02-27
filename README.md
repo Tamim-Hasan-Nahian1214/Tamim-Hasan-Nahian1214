@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://codepen.io/Tamim-Hasan-the-sans" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
@@ -40,7 +40,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif"  />
+<img align="center" height="200" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif"  />
 
 ###
 
@@ -48,11 +48,7 @@
 
 ###
 
-<p align="left"></p>
 
-###
-
-<p align="left"></p>
 
 ###
 
