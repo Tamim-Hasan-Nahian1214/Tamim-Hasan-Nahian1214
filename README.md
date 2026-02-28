@@ -1,4 +1,4 @@
-<h1 align="left" style="font-size:2rem">Hi 👋! My name is Tamim Hasan Nahian and I'm a Student, from Bangladesh</h1>
+<h1 align="left" style="font-size:2rem">Hi 👋! My name is Tamim Hasan Nahian and I'm a Student, from Bangladesh.</h1>
 
 
 ## 🌐 Socials:
