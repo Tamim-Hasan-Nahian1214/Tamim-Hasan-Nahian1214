@@ -9,5 +9,7 @@
 <br>
 <hr>
 <h1>🟢Contributions: </h1>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamim-Hasan-Nahian1214&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamim-Hasan-Nahian1214&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamim-Hasan-Nahian1214&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamim-Hasan-Nahian1214&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
