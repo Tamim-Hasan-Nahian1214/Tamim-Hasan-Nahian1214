@@ -1,4 +1,4 @@
-
+# Hi! I am Tamim Hasan! Student and Programmer.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamim-hasan-020205400) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Full-Stranger9249 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32483045) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BinarySortAlgo) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Tamim-Hasan-the-sans) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamimhasannahain1214@gmail.com) 
 
